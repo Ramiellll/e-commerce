@@ -2,7 +2,7 @@
   "name": "e-commerce",
   "version": "0.0.1",
   "description": "NestJS + Sequelize products microservice",
-  "author": "",
+  "author": "Ramy Abdulkadir Mohamed",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
