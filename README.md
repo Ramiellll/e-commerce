@@ -1,4 +1,4 @@
-# products-service
+# E-commerce
 
 A NestJS microservice that manages products in a MySQL database via Sequelize.
 
