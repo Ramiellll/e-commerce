@@ -12,7 +12,7 @@ describe('buildSequelizeOptions', () => {
       logging: false,
     });
     expect(opts.models).toBeDefined();
-    expect(opts.models!.length).toBeGreaterThan(0);
+    expect(opts.models?.length).toBeGreaterThan(0);
   });
 
   it('honours DB_STORAGE for sqlite', () => {
